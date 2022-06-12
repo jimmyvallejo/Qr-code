@@ -1,0 +1,10 @@
+body {
+  background-color: white;
+}
+
+.qr1 {
+  position: absolute;
+  width: 20%;
+  height :400px;
+  background: white;
+}
